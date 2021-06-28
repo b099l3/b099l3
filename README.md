@@ -38,4 +38,9 @@ I am a mobile software engineer from Edinburgh, Scotland.
 
 # StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Iain Smith for How to add maps to a list in dart when the map is nested?](https://stackoverflow.com/questions/68087611/how-to-add-maps-to-a-list-in-dart-when-the-map-is-nested/68089766#68089766)
+- [Answer by Iain Smith for What corresponds in flutter to a ForEach Block in SwiftUI?](https://stackoverflow.com/questions/68085497/what-corresponds-in-flutter-to-a-foreach-block-in-swiftui/68086507#68086507)
+- [Answer by Iain Smith for What is the best practice for uploading a Flutter project to GitHub](https://stackoverflow.com/questions/68085302/what-is-the-best-practice-for-uploading-a-flutter-project-to-github/68085487#68085487)
+- [Answer by Iain Smith for How to allow username to be only in lowercase?](https://stackoverflow.com/questions/68080258/how-to-allow-username-to-be-only-in-lowercase/68080478#68080478)
+- [Answer by Iain Smith for ComponentKit vs AsyncdisplayKit](https://stackoverflow.com/questions/43887062/componentkit-vs-asyncdisplaykit/65071995#65071995)
 <!-- STACKOVERFLOW:END -->
