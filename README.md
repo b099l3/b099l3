@@ -2,7 +2,6 @@
 I am a mobile software engineer from Edinburgh, Scotland.
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on:
-
 <br>
 
 ## My Socials:
@@ -36,3 +35,7 @@ I am a mobile software engineer from Edinburgh, Scotland.
 - [Flutter - a modern declarative UI toolkit](https://iainsmith.me/flutter-declarative-ui-toolkit/)
 - [Goal Cycle 3](https://iainsmith.me/goal-cycle-3/)
 <!-- BLOG-POST-LIST:END -->
+
+# StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
