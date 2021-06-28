@@ -1,8 +1,14 @@
-### Hello World 👋
-I am a mobile software engineer from Edinburgh, Scotland.
+### Welcome to my GitHub 👋
+Im Iain, a mobile software engineer from Edinburgh, Scotland.
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b099l3&repo=dinklebot)](https://github.com/b099l3/dinklebot)
+
+
 <br>
+
+![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/1107580)
 
 ## My Socials:
 
@@ -27,7 +33,7 @@ I am a mobile software engineer from Edinburgh, Scotland.
 <br>
 <br>
 
-## Blog posts
+## [My latest posts](https://iainsmith.me)
 <!-- BLOG-POST-LIST:START -->
 - [How to make fantastic lighting styles for the Pimoroni Keybow 🌈](https://iainsmith.me/keybow-lights/)
 - [Goal Cycle 5](https://iainsmith.me/goal-cycle-5/)
@@ -36,7 +42,7 @@ I am a mobile software engineer from Edinburgh, Scotland.
 - [Goal Cycle 3](https://iainsmith.me/goal-cycle-3/)
 <!-- BLOG-POST-LIST:END -->
 
-# StackOverflow Activity
+## [My StackOverflow Activity](https://stackoverflow.com/users/1107580/)
 <!-- STACKOVERFLOW:START -->
 - [Answer by Iain Smith for How to add maps to a list in dart when the map is nested?](https://stackoverflow.com/questions/68087611/how-to-add-maps-to-a-list-in-dart-when-the-map-is-nested/68089766#68089766)
 - [Answer by Iain Smith for What corresponds in flutter to a ForEach Block in SwiftUI?](https://stackoverflow.com/questions/68085497/what-corresponds-in-flutter-to-a-foreach-block-in-swiftui/68086507#68086507)
@@ -44,3 +50,6 @@ I am a mobile software engineer from Edinburgh, Scotland.
 - [Answer by Iain Smith for How to allow username to be only in lowercase?](https://stackoverflow.com/questions/68080258/how-to-allow-username-to-be-only-in-lowercase/68080478#68080478)
 - [Answer by Iain Smith for ComponentKit vs AsyncdisplayKit](https://stackoverflow.com/questions/43887062/componentkit-vs-asyncdisplaykit/65071995#65071995)
 <!-- STACKOVERFLOW:END -->
+
+
+![Iain's GitHub stats](https://github-readme-stats.vercel.app/api?username=b099l3&show_icons=true&theme=radical)
