@@ -49,7 +49,7 @@ Im Iain, a mobile software engineer from Edinburgh, Scotland.
 - [Goal Cycle 3](https://iainsmith.me/goal-cycle-3/)
 <!-- BLOG-POST-LIST:END -->
 
-## My StackOverflow activity [<img align="right" alt="stack-overflow" src="https://img.shields.io/stackexchange/stackoverflow/r/1107580?logo=stackoverflow&style=for-the-badge" />](https://stackoverflow.com/users/1107580/)
+## My StackOverflow activity [<img align="right" alt="stack-overflow" src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fmy-first-playground-74xzo6ku6q3g.runkit.sh%2F" />](https://stackoverflow.com/users/1107580/)
 <!-- STACKOVERFLOW:START -->
 - [Answer by Iain Smith for How to add maps to a list in dart when the map is nested?](https://stackoverflow.com/questions/68087611/how-to-add-maps-to-a-list-in-dart-when-the-map-is-nested/68089766#68089766)
 - [Answer by Iain Smith for What corresponds in flutter to a ForEach Block in SwiftUI?](https://stackoverflow.com/questions/68085497/what-corresponds-in-flutter-to-a-foreach-block-in-swiftui/68086507#68086507)
