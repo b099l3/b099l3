@@ -30,5 +30,9 @@ I am a mobile software engineer from Edinburgh, Scotland.
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
- 
+- [How to make fantastic lighting styles for the Pimoroni Keybow 🌈](https://iainsmith.me/keybow-lights/)
+- [Goal Cycle 5](https://iainsmith.me/goal-cycle-5/)
+- [Goal Cycle 4](https://iainsmith.me/goal-cycle-4/)
+- [Flutter - a modern declarative UI toolkit](https://iainsmith.me/flutter-declarative-ui-toolkit/)
+- [Goal Cycle 3](https://iainsmith.me/goal-cycle-3/)
 <!-- BLOG-POST-LIST:END -->
