@@ -1,16 +1,18 @@
-## Welcome to my GitHub 👋
+## Welcome to my GitHub 👋 [<img align="right" alt="stack-overflow" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=b099l3&repo=b099l4&countColorcountColor&countColor=%237B1E7A" />]()
 Im Iain, a mobile software engineer from Edinburgh, Scotland.
 <br>
 <br>
-
-[<img align="left" alt="medium" src="https://img.shields.io/badge/My%20Blog-3300FF.svg?&style=for-the-badge&logo=ghost&logoColor=00FFA3" />](https://iainsmith.me)
+<p>
+  
+[<img align="left" alt="medium" src="https://img.shields.io/badge/My%20Blog-3300FF.svg?&style=for-the-badge&logo=ghost&logoColor=00FFA3"/>](https://iainsmith.me)
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/b099l3)
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/iainsmithmobile)
 
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/1107580/)
-
+  
+</p>
 <br>
 <br>
 
@@ -26,6 +28,8 @@ Im Iain, a mobile software engineer from Edinburgh, Scotland.
 <img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white" />
 
 <img align="left" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
+<br>
+<br>
 <br>
 
 ## 🔭  I’m currently working on:
@@ -57,3 +61,4 @@ Im Iain, a mobile software engineer from Edinburgh, Scotland.
 - [Answer by Iain Smith for How to allow username to be only in lowercase?](https://stackoverflow.com/questions/68080258/how-to-allow-username-to-be-only-in-lowercase/68080478#68080478)
 - [Answer by Iain Smith for ComponentKit vs AsyncdisplayKit](https://stackoverflow.com/questions/43887062/componentkit-vs-asyncdisplaykit/65071995#65071995)
 <!-- STACKOVERFLOW:END -->
+
