@@ -46,11 +46,11 @@ Im Iain, a mobile software engineer from Edinburgh, Scotland.
 
 ## My latest posts
 <!-- BLOG-POST-LIST:START -->
+- [Goal Cycle 6](https://iainsmith.me/goal-cycle-6/)
 - [How to make fantastic lighting styles for the Pimoroni Keybow 🌈](https://iainsmith.me/keybow-lights/)
 - [Goal Cycle 5](https://iainsmith.me/goal-cycle-5/)
 - [Goal Cycle 4](https://iainsmith.me/goal-cycle-4/)
 - [Flutter - a modern declarative UI toolkit](https://iainsmith.me/flutter-declarative-ui-toolkit/)
-- [Goal Cycle 3](https://iainsmith.me/goal-cycle-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My StackOverflow activity [<img align="right" alt="stack-overflow" src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fmy-first-playground-74xzo6ku6q3g.runkit.sh%2F" />](https://stackoverflow.com/users/1107580/)
