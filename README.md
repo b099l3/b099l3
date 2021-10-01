@@ -35,6 +35,7 @@ Im Iain, a mobile software engineer from Edinburgh, Scotland.
 ## 🔭  I’m currently working on:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b099l3&repo=DinkleBot-NativeiOS)](https://github.com/b099l3/DinkleBot-NativeiOS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=b099l3&repo=DinkleBot-Flutter)](https://github.com/b099l3/DinkleBot-Flutter)
 
 <br>
 
