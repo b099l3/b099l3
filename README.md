@@ -1,4 +1,4 @@
-## Welcome to my GitHub 👋 [<img align="right" alt="stack-overflow" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=b099l3&repo=b099l4&countColorcountColor&countColor=%237B1E7A" />]()
+## Welcome to my GitHub 👋 
 Im Iain, a mobile software engineer from Edinburgh, Scotland.
 <br>
 <br>
