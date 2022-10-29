@@ -39,12 +39,6 @@ Im Iain, a mobile software engineer from Edinburgh, Scotland.
 
 <br>
 
-## GitHub Stats
-
-![Iain's GitHub stats](https://github-readme-stats.vercel.app/api?username=b099l3&show_icons=true&bg_color=30,fc00ff,00dbde&title_color=fff&text_color=fff)
-
-<br>
-
 ## My StackOverflow activity [<img align="right" alt="stack-overflow" src="https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fmy-first-playground-74xzo6ku6q3g.runkit.sh%2F" />](https://stackoverflow.com/users/1107580/)
 <!-- STACKOVERFLOW:START -->
 - [Answer by Iain Smith for How to add maps to a list in dart when the map is nested?](https://stackoverflow.com/questions/68087611/how-to-add-maps-to-a-list-in-dart-when-the-map-is-nested/68089766#68089766)
